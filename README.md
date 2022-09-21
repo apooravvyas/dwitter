@@ -4,6 +4,9 @@ Twitter is one of the most popular social media platforms and is widely adopted 
 # METHODOLOGY
 
 1)BUILD THE SMART CONTRACT
+
 2)CONNECT FRONTEND TO ETHEREUM(REACT + NEXT.JS)
+
 3)POST TWEETS ON ETHEREUM
+
 4)DEPLOY THE SMART CONTRACT
